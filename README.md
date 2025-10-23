@@ -1,7 +1,7 @@
 <h1 align="center">Desafio CSS - Projeto Responsivo 👨‍💻</h1>
 
 <p align="center">
-  Este projeto é uma simulação de página inicial de uma aplicação, com header de navegação, seção principal com título, descrição, logo e botão de ação. Foi desenvolvido como estudo de layout responsivo usando HTML e CSS.
+  Este projeto é uma simulação de página inicial de uma aplicação, com header de navegação, seção principal com título, descrição, logo e botão de ação. Estudo de layout responsivo usando HTML e CSS.
 </p>
 
 <h2 align="center">⚒ Tecnologias Utilizadas</h2>
@@ -28,20 +28,11 @@
   <li>📌 Botão "Learn more" transparente com hover pointer e cor #6FBF44</li>
 </ul>
 
-<h2 align="center">📷 Visualização do Projeto (Placeholders)</h2>
+<h2 align="center">📷 Visualização do Projeto (Simulada)</h2>
 <p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🖥 Desktop</h3>
-        <img src="https://via.placeholder.com/400x300?text=Desktop+Preview" width="400" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);"/>
-      </td>
-      <td align="center">
-        <h3>📱 Smartphone</h3>
-        <img src="https://via.placeholder.com/200x400?text=Smartphone+Preview" width="200" style="border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2);"/>
-      </td>
-    </tr>
-  </table>
+  <div style="width:400px; height:300px; background-color:#E0E0E0; display:flex; align-items:center; justify-content:center; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2); margin:0 auto;">
+    <span style="color:#555; font-weight:bold;">Desktop Preview</span>
+  </div>
 </p>
 
 <h2 align="center">🔗 Navegação e Funcionalidades</h2>
@@ -54,5 +45,5 @@
 
 <h2 align="center">💡 Observações do Projeto</h2>
 <p align="center">
-  Este projeto é um estudo prático de HTML e CSS, com foco em layout responsivo, tipografia moderna, cores harmoniosas e organização de conteúdo. Serve como base para desenvolvimento de landing pages e interfaces web profissionais.
+  Este projeto é um estudo prático de HTML e CSS, com foco em layout responsivo, tipografia moderna, cores harmoniosas e organização de conteúdo. Mesmo sem imagens finais, o README já demonstra o layout e facilita futuras atualizações.
 </p>
