@@ -31,8 +31,6 @@
 <h2>📷 Visualização do Projeto</h2>
 <img src="./assets/versao-desktop-desafio-css.jpg" alt="Desktop Preview">
 
-<blockquote>💡 Certifique-se de que a imagem está na pasta <strong>assets</strong> e com o nome correto.</blockquote>
-
 <h2>🔗 Navegação e Funcionalidades</h2>
 <ul>
   <li>🏠 Header com links: Products, Company, Blog e Log in</li>
