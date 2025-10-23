@@ -31,7 +31,8 @@
 <h2 align="center">📷 Visualização do Projeto (Simulada)</h2>
 <p align="center">
   <div style="width:400px; height:300px; background-color:#E0E0E0; display:flex; align-items:center; justify-content:center; border-radius:10px; box-shadow:0 4px 8px rgba(0,0,0,0.2); margin:0 auto;">
-    <span style="color:#555; font-weight:bold;">Desktop Preview</span>
+    <span style="color:#555; font-weight:bold;">
+      <img src="./img/versao-desktop-desafio-css.png"/>
   </div>
 </p>
 
